@@ -39,6 +39,30 @@ const PARTNERS = [
     image: "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?auto=format&fit=crop&q=80&w=400",
     desc: "Memberdayakan pengrajin wanita lokal untuk menciptakan busana elegan."
   }
+  {
+    name: "Kopi Nusantara",
+    category: "Minuman",
+    image: "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&q=80&w=400",
+    desc: "Suplier biji kopi terbaik dari petani lokal di seluruh Indonesia."
+  },
+  {
+    name: "Tenun Ikat Jaya",
+    category: "Kerajinan",
+    image: "https://images.unsplash.com/photo-1590736704728-f4730bb30770?auto=format&fit=crop&q=80&w=400",
+    desc: "Membawa tradisi tenun tangan ke pasar modern dengan sentuhan kontemporer."
+  },
+  {
+    name: "Keripik Mantap",
+    category: "Makanan",
+    image: "https://images.unsplash.com/photo-1600271772470-bd22a42787b3?auto=format&fit=crop&q=80&w=400",
+    desc: "Camilan tradisional dengan rasa inovatif yang disukai ribuan pelanggan."
+  },
+  {
+    name: "Batik Modern Srikandi",
+    category: "Fashion",
+    image: "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?auto=format&fit=crop&q=80&w=400",
+    desc: "Memberdayakan pengrajin wanita lokal untuk menciptakan busana elegan."
+  }
 ];
 
 export default function About() {
