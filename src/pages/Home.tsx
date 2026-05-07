@@ -7,7 +7,11 @@ const FEATURED_PRODUCTS = [
   { id: '1', name: 'Tas Tenun Handmade', price: 250000, category: 'Aksesoris', image: '/images/Tas_Tenun_Handmade.png', slug: 'tas-tenun-handmade', rating: 4.8 },
   { id: '2', name: 'Kopi Arabika Gayo 250g', price: 85000, category: 'Kuliner', image: '/images/Kopi_Arabika_Gayo_250g.png', slug: 'kopi-arabika-gayo', rating: 4.9 },
   { id: '3', name: 'Lampu Meja Bambu', price: 175000, category: 'Kriya', image: '/images/Lampu_meja_bambu.png', slug: 'lampu-meja-bambu', rating: 4.7 },
-  { id: '4', name: 'Batik Tulis Solo', price: 450000, category: 'Fashion', image: '/images/Batik_solo.png', slug: 'batik-tulis-solo', rating: 5.0 }
+  { id: '4', name: 'Batik Tulis Solo', price: 450000, category: 'Fashion', image: '/images/Batik_solo.png', slug: 'batik-tulis-solo', rating: 5.0 },
+  { id: '5', name: 'Tas Tenun Handmade', price: 250000, category: 'Aksesoris', image: '/images/Tas_Tenun_Handmade.png', slug: 'tas-tenun-handmade', rating: 4.8 },
+  { id: '6', name: 'Kopi Arabika Gayo 250g', price: 85000, category: 'Kuliner', image: '/images/Kopi_Arabika_Gayo_250g.png', slug: 'kopi-arabika-gayo', rating: 4.9 },
+  { id: '7', name: 'Lampu Meja Bambu', price: 175000, category: 'Kriya', image: '/images/Lampu_meja_bambu.png', slug: 'lampu-meja-bambu', rating: 4.7 },
+  { id: '8', name: 'Batik Tulis Solo', price: 450000, category: 'Fashion', image: '/images/Batik_solo.png', slug: 'batik-tulis-solo', rating: 5.0 }
 ];
 
 const CATEGORIES = [
