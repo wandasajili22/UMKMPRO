@@ -38,7 +38,7 @@ const PARTNERS = [
     category: "Fashion",
     image: "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?auto=format&fit=crop&q=80&w=400",
     desc: "Memberdayakan pengrajin wanita lokal untuk menciptakan busana elegan."
-  }
+  },
   {
     name: "Kopi Nusantara",
     category: "Minuman",
