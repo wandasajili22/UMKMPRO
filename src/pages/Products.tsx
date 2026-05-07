@@ -18,6 +18,14 @@ const PRODUCTS = [
   { id: '6', name: 'Keripik Tempe Premium', price: 25000, category: 'Kuliner', image: '/images/Keripik_Tempe_Premium.png', slug: 'keripik-tempe-premium', rating: 4.6 },
   { id: '7', name: 'Gantungan Kunci Kayu', price: 15000, category: 'Kriya', image: '/images/Gantungan_Kunci_Kayu.png', slug: 'gantungan-kunci-kayu', rating: 4.5 },
   { id: '8', name: 'Totebag Kanvas Lukis', price: 65000, category: 'Fashion', image: '/images/Totebag_Kanvas_Lukis.png', slug: 'totebag-kanvas-lukis', rating: 4.7 },
+  { id: '9', name: 'Tas Tenun Handmade', price: 250000, category: 'Aksesoris', image: '/images/Tas_Tenun_Handmade.png', slug: 'tas-tenun-handmade', rating: 4.8 },
+  { id: '10', name: 'Kopi Arabika Gayo 250g', price: 85000, category: 'Kuliner', image: '/images/Kopi_Arabika_Gayo_250g.png', slug: 'kopi-arabika-gayo', rating: 4.9 },
+  { id: '11', name: 'Lampu Meja Bambu', price: 175000, category: 'Kriya', image: '/images/Lampu_meja_bambu.png', slug: 'lampu-meja-bambu', rating: 4.7 },
+  { id: '12', name: 'Batik Tulis Solo', price: 450000, category: 'Fashion', image: '/images/Batik_solo.png', slug: 'batik-tulis-solo', rating: 5.0 },
+  { id: '13', name: 'Madu Hutan Asli', price: 120000, category: 'Kesehatan', image: '/images/Madu_Hutan_Asli.png', slug: 'madu-hutan-asli', rating: 4.8 },
+  { id: '14', name: 'Keripik Tempe Premium', price: 25000, category: 'Kuliner', image: '/images/Keripik_Tempe_Premium.png', slug: 'keripik-tempe-premium', rating: 4.6 },
+  { id: '15', name: 'Gantungan Kunci Kayu', price: 15000, category: 'Kriya', image: '/images/Gantungan_Kunci_Kayu.png', slug: 'gantungan-kunci-kayu', rating: 4.5 },
+  { id: '16', name: 'Totebag Kanvas Lukis', price: 65000, category: 'Fashion', image: '/images/Totebag_Kanvas_Lukis.png', slug: 'totebag-kanvas-lukis', rating: 4.7 },
 ];
 
 export default function Products() {
