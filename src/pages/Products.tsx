@@ -10,14 +10,14 @@ import { formatCurrency } from "../lib/utils";
 import { motion } from "motion/react";
 
 const PRODUCTS = [
-  { id: '1', name: 'Tas Tenun Handmade', price: 250000, category: 'Aksesoris', image: '/public/images/Tas_Tenuh_Handmade.png', slug: 'tas-tenun-handmade', rating: 4.8 },
-  { id: '2', name: 'Kopi Arabika Gayo 250g', price: 85000, category: 'Kuliner', image: '/public/images/Tas_Tenuh_Handmade.png', slug: 'kopi-arabika-gayo', rating: 4.9 },
-  { id: '3', name: 'Lampu Meja Bambu', price: 175000, category: 'Kriya', image: '/public/images/Tas_Tenuh_Handmade.png', slug: 'lampu-meja-bambu', rating: 4.7 },
-  { id: '4', name: 'Batik Tulis Solo', price: 450000, category: 'Fashion', image: '/public/images/Tas_Tenuh_Handmade.png', slug: 'batik-tulis-solo', rating: 5.0 },
-  { id: '5', name: 'Madu Hutan Asli', price: 120000, category: 'Kesehatan', image: '/public/images/Tas_Tenuh_Handmade.png', slug: 'madu-hutan-asli', rating: 4.8 },
-  { id: '6', name: 'Keripik Tempe Premium', price: 25000, category: 'Kuliner', image: '/public/images/Tas_Tenuh_Handmade.png', slug: 'keripik-tempe-premium', rating: 4.6 },
-  { id: '7', name: 'Gantungan Kunci Kayu', price: 15000, category: 'Kriya', image: '/public/images/Tas_Tenuh_Handmade.png', slug: 'gantungan-kunci-kayu', rating: 4.5 },
-  { id: '8', name: 'Totebag Kanvas Lukis', price: 65000, category: 'Fashion', image: '/public/images/Tas_Tenuh_Handmade.png', slug: 'totebag-kanvas-lukis', rating: 4.7 },
+  { id: '1', name: 'Tas Tenun Handmade', price: 250000, category: 'Aksesoris', image: '/images/Tas_Tenuh_Handmade.png', slug: 'tas-tenun-handmade', rating: 4.8 },
+  { id: '2', name: 'Kopi Arabika Gayo 250g', price: 85000, category: 'Kuliner', image: '/images/Tas_Tenuh_Handmade.png', slug: 'kopi-arabika-gayo', rating: 4.9 },
+  { id: '3', name: 'Lampu Meja Bambu', price: 175000, category: 'Kriya', image: '/images/Tas_Tenuh_Handmade.png', slug: 'lampu-meja-bambu', rating: 4.7 },
+  { id: '4', name: 'Batik Tulis Solo', price: 450000, category: 'Fashion', image: '/images/Tas_Tenuh_Handmade.png', slug: 'batik-tulis-solo', rating: 5.0 },
+  { id: '5', name: 'Madu Hutan Asli', price: 120000, category: 'Kesehatan', image: '/images/Tas_Tenuh_Handmade.png', slug: 'madu-hutan-asli', rating: 4.8 },
+  { id: '6', name: 'Keripik Tempe Premium', price: 25000, category: 'Kuliner', image: '/images/Tas_Tenuh_Handmade.png', slug: 'keripik-tempe-premium', rating: 4.6 },
+  { id: '7', name: 'Gantungan Kunci Kayu', price: 15000, category: 'Kriya', image: '/images/Tas_Tenuh_Handmade.png', slug: 'gantungan-kunci-kayu', rating: 4.5 },
+  { id: '8', name: 'Totebag Kanvas Lukis', price: 65000, category: 'Fashion', image: '/images/Tas_Tenuh_Handmade.png', slug: 'totebag-kanvas-lukis', rating: 4.7 },
 ];
 
 export default function Products() {
