@@ -7,10 +7,10 @@ import { motion } from "motion/react";
 
 // Mock data
 const PRODUCTS = [
-  { id: '1', name: 'Tas Tenun Handmade', price: 250000, description: 'Tas yang dibuat dengan teknik tenun tradisional oleh pengrajin lokal. Menggunakan bahan berkualitas tinggi dan pewarna alami yang ramah lingkungan. Cocok untuk kegiatan sehari-hari maupun acara formal.', stock: 15, category: 'Aksesoris', images: ['https://picsum.photos/seed/tas/800/1000', 'https://picsum.photos/seed/tas2/800/1000'], slug: 'tas-tenun-handmade' },
-  { id: '2', name: 'Kopi Arabika Gayo 250g', price: 85000, description: 'Kopi Arabika murni dari dataran tinggi Gayo, Aceh. Memiliki cita rasa yang khas dengan body yang kuat dan tingkat keasaman yang seimbang. Diproses dengan standar ekspor.', stock: 50, category: 'Kuliner', images: ['https://picsum.photos/seed/kopi/800/1000'], slug: 'kopi-arabika-gayo' },
-  { id: '3', name: 'Lampu Meja Bambu', price: 175000, description: 'Lampu hias meja dari bambu pilihan. Memberikan kesan hangat dan etnik pada ruangan Anda.', stock: 10, category: 'Kriya', images: ['https://picsum.photos/seed/lampu/800/1000'], slug: 'lampu-meja-bambu' },
-  { id: '4', name: 'Batik Tulis Solo', price: 450000, description: 'Kain batik tulis asli dari Solo dengan motif klasik. Dibuat secara manual selama berminggu-minggu.', stock: 5, category: 'Fashion', images: ['https://picsum.photos/seed/batik/800/1000'], slug: 'batik-tulis-solo' },
+  { id: '1', name: 'Tas Tenun Handmade', price: 250000, description: 'Tas yang dibuat dengan teknik tenun tradisional oleh pengrajin lokal. Menggunakan bahan berkualitas tinggi dan pewarna alami yang ramah lingkungan. Cocok untuk kegiatan sehari-hari maupun acara formal.', stock: 15, category: 'Aksesoris', images: ['/images/Tas_Tenun_Handmade.png'], slug: 'tas-tenun-handmade' },
+  { id: '2', name: 'Kopi Arabika Gayo 250g', price: 85000, description: 'Kopi Arabika murni dari dataran tinggi Gayo, Aceh. Memiliki cita rasa yang khas dengan body yang kuat dan tingkat keasaman yang seimbang. Diproses dengan standar ekspor.', stock: 50, category: 'Kuliner', images: ['/images/Kopi Arabika Gayo 250g.png'], slug: 'kopi-arabika-gayo' },
+  { id: '3', name: 'Lampu Meja Bambu', price: 175000, description: 'Lampu hias meja dari bambu pilihan. Memberikan kesan hangat dan etnik pada ruangan Anda.', stock: 10, category: 'Kriya', images: ['/images/Lampu_meja_bambu.png'], slug: 'lampu-meja-bambu' },
+  { id: '4', name: 'Batik Tulis Solo', price: 450000, description: 'Kain batik tulis asli dari Solo dengan motif klasik. Dibuat secara manual selama berminggu-minggu.', stock: 5, category: 'Fashion', images: ['/images/Batik_solo.png'], slug: 'batik-tulis-solo' }
 ];
 
 export default function ProductDetail() {
