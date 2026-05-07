@@ -1,0 +1,9 @@
+{
+  "name": "UMKM Pro",
+  "description": "Platform e-commerce unggulan untuk memberdayakan produk lokal UMKM Indonesia melalui solusi digital yang modern dan efisien.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
